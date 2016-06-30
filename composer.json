@@ -1,0 +1,12 @@
+{
+    "name":"jimmy0766/foxphp",
+    "discription":"jimmy's project",
+    "keywords":["jimmy0766","foxphp"],
+    "homepage":"http://www.ywbang.xin",
+    "license":["Apache-2.0","GPL-2.0+"],
+    "authors":[{
+        "name":"jimmy",
+        "homepage":"http://www.ywbang.xin"
+    }],
+    "require": {}
+}
